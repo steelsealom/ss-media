@@ -10,3 +10,4 @@ URL OM_38 https://done 0
 URL ST_W4S02 https://done 0
 URL ST_W4S04 https://done 0
 URL OM_34 https://d.uguu.se/fGZQOxhC.mp4 40247912
+URL ST_W4S06 https://d.uguu.se/fRfjkpFh.mp4 23416289
